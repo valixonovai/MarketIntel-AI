@@ -1,19 +1,36 @@
-# MarketIntel AI
+# Uzum Platform Market Analysis
 
-E-commerce intelligence platform for automated price scraping, 
-demand forecasting, and visual product search.
+## 📊 Loyija Haqida
+Bu loyija Uzum.uz platformasidagi 1 yilik sotuvlar 
+ma'lumotlarini tahlil qilib, ML modeli orqali 
+kelajak trendlarni bashorat qiladi.
 
----
+## 🎯 Maqsadi
+- Bozor hajmi trendlarini aniqlash
+- Sezonalik patternlarni topish
+- ML orqali sotuvlarni bashorat qilish
+- Data science portfolio yaratish
 
-## 🛠️ Tech Stack
-- **Backend & Scraping:** FastAPI · Playwright · PostgreSQL
-- **Machine Learning:** Scikit-Learn · PyTorch · Pandas
-- **Analytics:** PowerBI · Statistics
+## 📁 Struktura
+[Papka tuzilishini ko'rsatish]
 
----
+## 🔧 O'rnatish
+[Installation instructions]
 
-## 🗂️ Directory Structure
-- `/services/scraper`: E-commerce data collection modules.
-- `/services/backend`: FastAPI core application and database migrations.
-- `/services/models`: Demand forecasting algorithms and visual search pipelines.
-- `/analytics`: SQL scripts and PowerBI data models.
+## 📈 Natijalar
+[Summary of findings]
+
+## 📊 Visualizations
+[Links to dashboards and charts]
+
+## 🚀 Deployment
+[Production pipeline details]
+
+## 📚 Dokumentasiya
+[Links to detailed reports]
+
+## 👤 Muallif
+[Your name, LinkedIn, Contact]
+
+## 📄 License
+[MIT License yoki boshqasi]
